@@ -19,6 +19,10 @@ Custom Hardened Client used for Communication between Secured clients
 All Selfhosted with a Monitor dashboard to give every Client full control over there network
 
 ---
+###### Built By Apex Multi Tools 
 
+**Current Version - V0.4.0** 
+
+**Contact @ info@apexmultitools.se** 
 
 
